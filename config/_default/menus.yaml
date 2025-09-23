@@ -1,0 +1,133 @@
+leftnav:
+- identifier: 7091af9f-4122-4d28-abe4-5bb857020d8b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 349a9c1c-857d-440b-8fcb-d22f505d43ea
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 3dc240df-1289-4e4a-8ddf-7125d9550e9d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: e0523745-98f9-47c8-832f-5e14ea868108
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 547afda6-83d6-443b-b753-bec3ddf21b84
+  name: Class 1
+  pageRef: /pages/class-1
+  weight: 50
+- identifier: ccea6bc9-08f9-4a48-b8fc-33d21611bc45
+  name: Class 2
+  pageRef: /pages/class-2
+  weight: 60
+- identifier: 5dfafa1b-0826-4dec-b632-a072e2b963dd
+  name: Class 3
+  pageRef: /pages/class-3
+  weight: 70
+- identifier: 7e948087-dea8-4226-9d7c-57f1e2caeed1
+  name: Class 4
+  pageRef: /pages/class-4-historical-strategies-for-gender-change
+  weight: 80
+- identifier: 68f78fa6-138c-47dc-a0e0-088e3f99dbcc
+  name: Class 5
+  pageRef: /pages/class-5-gender-race-class-and-suffrage
+  weight: 90
+- identifier: 543a8660-7841-4d97-900d-c5c3f7bc65ad
+  name: Class 6
+  pageRef: /pages/class-6-gender-race-class-and-suffrage-cont
+  weight: 100
+- identifier: bf538003-324c-4c61-b2f1-28878fb2f4ca
+  name: Class 7
+  pageRef: /pages/class-7
+  weight: 110
+- identifier: 61087b91-2728-46b1-80e8-3c7cad36b27b
+  name: Class 8
+  pageRef: /pages/class-8
+  weight: 120
+- identifier: 92097953-3c58-4e88-8bea-e1ba79e72c00
+  name: Class 9
+  pageRef: /pages/class-9-gender-changes-in-1940s-america-a-seedbed-of-feminism
+  weight: 130
+- identifier: e0c2247f-d01f-43da-9549-8a46f140e684
+  name: Class 10
+  pageRef: /pages/class-10-beyond-suffrage-the-roots-of-the-second-wave-of-the-us-womens-right-movement-world-war-ii-and-the-postwar-era
+  weight: 140
+- identifier: 69b0b001-96b7-4d18-b7a0-a751b8587e55
+  name: Class 11
+  pageRef: /pages/class-11-the-birth-of-the-second-wave-of-us-feminism-196066
+  weight: 150
+- identifier: 7f056c51-8578-4100-9dac-489c6085a994
+  name: Class 12
+  pageRef: /pages/class-12-the-second-wave-of-womens-rights-activism-1963present
+  weight: 160
+- identifier: 6a5627aa-7d9c-4616-835f-effabc8b2639
+  name: Class 13
+  pageRef: /pages/class-13-the-second-wave-and-beyond-a-multivocal-intersectional-movement-cont
+  weight: 170
+- identifier: 34d4c684-4327-4ce3-ac1f-43196c8af0b6
+  name: Class 14
+  pageRef: /pages/class-14-introduction-to-socialization-and-gender-roles-culture-interprets-biological-differences
+  weight: 180
+- identifier: 60a728f5-9a2a-4ddf-89f4-bbe5cb6f4a3a
+  name: Class 15
+  pageRef: /pages/class-15-socialization-race-ethnicity-nationality-and-gender-roles-implications-for-education-and-careers
+  weight: 190
+- identifier: 7b768e07-19a8-42e2-85b2-74850e1360e9
+  name: Class 16
+  pageRef: /pages/class-16-representation-of-gender-in-advertising-and-popular-visual-media
+  weight: 200
+- identifier: 3558e8a5-aef8-4466-b3d1-98dd1d0e49fd
+  name: Class 17
+  pageRef: /pages/class-17-representation-of-gender-in-popular-visual-mediatelevision
+  weight: 210
+- identifier: 5cafcdb9-d37e-47c1-8397-f651c03cc988
+  name: Class 18
+  pageRef: /pages/class-18-sexualities-and-gender-the-right-to-same-sex-marriage
+  weight: 220
+- identifier: 2b704b27-139e-4efc-b355-61badfb55fd8
+  name: Class 19
+  pageRef: /pages/class-19-crossing-gender-boundaries-transgender-and-gender-equality-movements
+  weight: 230
+- identifier: ed33c35a-c35a-40ce-abb8-eec74bff4324
+  name: Classes 20 & 21
+  pageRef: /pages/classes-20-21-sexual-self-determination-contraception-and-reproductive-choice-the-legacy-and-defeat-of-roe-v-wade
+  weight: 240
+- identifier: d18bd7f9-b46c-4f6d-b1f5-0a97fcaabf50
+  name: Class 22
+  pageRef: /pages/class-22-gender-in-the-workplace-women-in-stem
+  weight: 250
+- identifier: b92b2789-9bbb-4852-865f-9c4e596bb20c
+  name: Classes 23 & 24
+  pageRef: /pages/classes-23-24-gender-equality-issues-in-the-workplace-gender-and-stem
+  weight: 260
+- identifier: 84bc3941-c7d3-46d4-adf4-d98afc7fb123
+  name: Class 25
+  pageRef: /pages/class-25-gender-work-and-familiesnational-and-global-dimensions
+  weight: 270
+- identifier: 5a06aeb9-4cd0-4edc-837a-4a0eaab16c2c
+  name: Class 26
+  pageRef: /pages/class-26-global-issues-contemporary-feminism-course-wrap-up
+  weight: 280
+- identifier: 74bf1a53-382d-4208-b1f0-7e829fd3c37d
+  name: Essay 1
+  pageRef: /pages/essay-1
+  parent: e0523745-98f9-47c8-832f-5e14ea868108
+  weight: 10
+- identifier: 8fddb88c-b5eb-4917-a324-a4f1c34bdd2f
+  name: Oral Presentation
+  pageRef: /pages/oral-presentation
+  parent: e0523745-98f9-47c8-832f-5e14ea868108
+  weight: 20
+- identifier: d715ce07-9f70-469a-986e-729d107de1f1
+  name: Essay 2
+  pageRef: /pages/essay-2
+  parent: e0523745-98f9-47c8-832f-5e14ea868108
+  weight: 30
+- identifier: f2b1af97-3d39-4775-99a0-6365b1df210d
+  name: Essay 3
+  pageRef: /pages/essay-3
+  parent: e0523745-98f9-47c8-832f-5e14ea868108
+  weight: 40

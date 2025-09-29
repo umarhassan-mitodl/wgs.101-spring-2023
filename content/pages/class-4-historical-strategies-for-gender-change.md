@@ -13,11 +13,11 @@ uid: 7e948087-dea8-4226-9d7c-57f1e2caeed1
 ## Read/View
 
 - Frederick Douglass, “Why I Became a Women’s Rights Man” (1892)
-- {{% resource_link "0a5f4d5e-c817-4dde-9c42-0a74539954bd" "Douglass’s piece read by actor Ossie Davis on YouTube" %}}
-- Ta-Nehisi Coates, “{{% resource_link "97964e8e-b409-48ca-8836-c27f408bce35" "Frederick Douglass: Women’s Rights Man" %}}”
-- Clip, {{% resource_link "36dda566-2edb-45a8-bd64-c398ef7953f1" "*Not for Ourselves Alone*" %}} (Ken Burns, 1999)
-- Susan B. Anthony, “{{% resource_link "9b9a44fe-dbf7-4a04-95bf-6926525d83f3" "Speech after Being Convicted for Voting in the 1872 Presidential Election" %}}” (1873)
-- {{% resource_link "1ec038cb-fb9e-49f0-a8a0-0b4b01a6f8ca" "Anthony’s speech delivered by actor Lili Taylor (with Wallace Shawn) on YouTube" %}}
+- [Douglass’s piece read by actor Ossie Davis on YouTube](https://www.youtube.com/watch?v=fH1iIlS1_Pw)
+- Ta-Nehisi Coates, “[Frederick Douglass: Women’s Rights Man](https://www.theatlantic.com/personal/archive/2011/09/frederick-douglass-a-womens-rights-man/245977/)”
+- Clip, [*Not for Ourselves Alone*](https://www.pbs.org/kenburns/not-for-ourselves-alone/) (Ken Burns, 1999)
+- Susan B. Anthony, “[Speech after Being Convicted for Voting in the 1872 Presidential Election](http://law2.umkc.edu/faculty/projects/ftrials/anthony/anthonyaddress.html)” (1873)
+- [Anthony’s speech delivered by actor Lili Taylor (with Wallace Shawn) on YouTube](https://www.youtube.com/watch?v=r1lsxVT_l90)
 
 ## Homework #4
 

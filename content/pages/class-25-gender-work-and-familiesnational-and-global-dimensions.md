@@ -8,13 +8,13 @@ uid: 84bc3941-c7d3-46d4-adf4-d98afc7fb123
 ---
 ## Read
 
-- Nicholas Krystof, “Where Sweatshops Are a Dream.” {{% resource_link "3a0636f2-ce7b-425a-b529-a574576055eb" "*The New York Times*" %}}*.* January 14, 2009. 
-- Arlie Russell Hochschild, “{{% resource_link "720e6de1-2534-44b5-84c0-97aa6f062483" "Love and Gold" %}}.” *The Scholar & Feminist* 8, no 1 (2009). 
+- Nicholas Krystof, “Where Sweatshops Are a Dream.” [*The New York Times*](https://www.nytimes.com/2009/01/15/opinion/15kristof.html)*.* January 14, 2009. 
+- Arlie Russell Hochschild, “[Love and Gold](http://sfonline.barnard.edu/work/hochschild_01.htm).” *The Scholar & Feminist* 8, no 1 (2009). 
 
 ### Supplementary
 
-- Robert Pinsky, “{{% resource_link "75a0f95a-a57f-46f2-b616-2db03d4666d8" "The Shirt" %}}.”
-- Listen: Bernice Johnson Reagon, “{{% resource_link "457e9454-3565-416b-8f61-a9193df17b81" "Are My Hands Clean?" %}}” 
+- Robert Pinsky, “[The Shirt](http://www.ibiblio.org/ipa/poems/pinsky/shirt.php).”
+- Listen: Bernice Johnson Reagon, “[Are My Hands Clean?](https://www.youtube.com/watch?v=_owh_GfS38s)” 
 
 ## Homework #19
 

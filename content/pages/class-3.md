@@ -12,9 +12,9 @@ uid: 5dfafa1b-0826-4dec-b632-a072e2b963dd
 
 ## Readings
 
-- Lucy Stone and Henry Blackwell, “{{% resource_link "59d1a1de-b689-43cd-bd8e-fe272b1980a5" "Marriage Agreement" %}}” (1855)
+- Lucy Stone and Henry Blackwell, “[Marriage Agreement](https://www.thoughtco.com/marriage-protest-lucy-stone-henry-blackwell-3529568)” (1855)
 - Elizabeth Cady Stanton, “Our Costume” (1851)
-- Elizabeth Cady Stanton, “{{% resource_link "53973e92-016d-447e-87dd-d8dc7df29f22" "The Solitude of Self" %}}” (1892)
+- Elizabeth Cady Stanton, “[The Solitude of Self](https://www.nps.gov/wori/learn/historyculture/solitude-of-self.htm)” (1892)
 
 ## In-Class Writing Exercise
 

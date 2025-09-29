@@ -14,7 +14,7 @@ uid: 92097953-3c58-4e88-8bea-e1ba79e72c00
 
 ## Screening
 
-{{% resource_link "63764a1a-5e84-47b6-847c-e79ea29df131" "*The Life and Times of Rosie the Riveter*" %}} 
+[*The Life and Times of Rosie the Riveter*](https://clarityfilms.org/rosie.html) 
 
 (Connie Field, 1980)
 

@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section contains information for essay 3. '
 draft: false
+hide_download: true
+hide_download_original: null
 title: 'Essay 3: Final Reflection'
 uid: f2b1af97-3d39-4775-99a0-6365b1df210d
 ---

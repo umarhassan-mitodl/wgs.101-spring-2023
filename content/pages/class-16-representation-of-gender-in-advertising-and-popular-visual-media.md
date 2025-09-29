@@ -10,9 +10,9 @@ uid: 7b768e07-19a8-42e2-85b2-74850e1360e9
 - Debra Gimlin, “Cosmetic Surgery: Beauty as Commodity.”
 - Josee Johnston and Judy Taylor, “Feminist Consumerism and Fat Activists: Grassroots Activism and the Dove ‘Real Beauty’ Campaign.”
 - Onishi Norimitsu, “Globalization of Beauty Makes Slimness Trendy.”
-- View: Gillette ad: “{{% resource_link "acfd5e50-4482-4feb-b550-cd9e86ba2b80" "We Believe: The Best That Men Can Be" %}}”: Critique of Toxic Masculinity?
-- {{% resource_link "59f4f706-4aa7-4e07-b5df-d5b97f5e74be" "Lean-In Collection" %}}, Getty Images. 
+- View: Gillette ad: “[We Believe: The Best That Men Can Be](https://www.youtube.com/watch?v=UYaY2Kb_PKI)”: Critique of Toxic Masculinity?
+- [Lean-In Collection](https://leanin.org/getty#!), Getty Images. 
 
 ## Homework #12
 
-{{% resource_link "1e51f86c-12df-473f-a9e2-e7f4e9f404ab" "Gender in TV (PDF)" %}} ({{% resource_link "7f7a7861-fca0-4844-affe-edd9b240270f" "DOC" %}})
+[Gender in TV (PDF)](https://draft.ocw.mit.edu/courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/resources/mitwgs_101_s23_homework12_pdf/) ([DOC](https://draft.ocw.mit.edu/courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/resources/mitwgs_101_s23_homework12_docx/))

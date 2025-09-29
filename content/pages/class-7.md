@@ -14,7 +14,7 @@ Discussion: *Ida B. Wells: Passion for Justice*
 
 ## Read
 
-Smith-Rosenberg, Carroll. "{{% resource_link "72fe562c-c24a-4391-851c-89c87d7d4537" "The Hysterical Woman: Sex Roles and Role Conflict in Nineteenth-Century America" %}}." *Social Research,* 39. no 4. (1972): 652–678.
+Smith-Rosenberg, Carroll. "[The Hysterical Woman: Sex Roles and Role Conflict in Nineteenth-Century America](https://www.jstor.org/stable/40970115)." *Social Research,* 39. no 4. (1972): 652–678.
 
 ## Homework #6
 

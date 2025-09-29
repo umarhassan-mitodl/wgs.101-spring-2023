@@ -8,7 +8,7 @@ uid: d18bd7f9-b46c-4f6d-b1f5-0a97fcaabf50
 ---
 ## View
 
-Sharon Shattuck & Ian Cheney. {{% resource_link "e9a41445-52cc-45c3-b685-c17d067edaa9" "*Picture a Scientist*" %}}*.* 2020. 
+Sharon Shattuck & Ian Cheney. [*Picture a Scientist*](https://www.pictureascientist.com/)*.* 2020. 
 
 ## Homework #16
 

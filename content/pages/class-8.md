@@ -13,11 +13,11 @@ uid: 61087b91-2728-46b1-80e8-3c7cad36b27b
 
 ## Read
 
-Gilman, Charlotte Perkins. [*The Yellow Wallpaper*](https://www.gutenberg.org/cache/epub/1952/pg1952-images.html)*.* 1892. 
+Gilman, Charlotte Perkins. {{% resource_link "99424c8f-b727-40be-a20f-7811f8b2fe1a" "*The Yellow Wallpaper*" %}}*.* 1892. 
 
 ### Supplementary Readings
 
-The first three readings can be found in: Erskine, Thomas L., and Connie L. Richards. [*The* *Yellow Wallpaper*](https://www.worldcat.org/title/27106197?oclcNum=27106197). Rutgers University Press, 1993. ISBN: 9780813519944.  
+The first three readings can be found in: Erskine, Thomas L., and Connie L. Richards. {{% resource_link "f952eeb0-3d49-40a9-86b8-36d7bee3001d" "*The* *Yellow Wallpaper*" %}}. Rutgers University Press, 1993. ISBN: 9780813519944.  
 
 - Gilman, C.P. “The ‘Nervous Breakdown’ of Women.” pp. 67–76.
 - Mitchell, S. Weir. Selections from “Fat & Blood, Wear & Tear, and Doctor & Patient.” pp. 105–111.

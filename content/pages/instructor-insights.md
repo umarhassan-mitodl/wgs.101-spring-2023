@@ -50,8 +50,8 @@ None
 
 ### Requirements Satisfied
 
-- [General Institute Requirement in Humanities and Social Sciences (GIR HASS)](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)![](https://ocw.mit.edu/images/educator/icon-question-hass.png)
-- [Communication Intensive in the Humanities (CI-H)](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-hhw-subjects)![](https://ocw.mit.edu/images/educator/icon-question-cih.png)
+- {{% resource_link "754e0c47-b6b4-4616-80a1-1b857f1c0c5c" "General Institute Requirement in Humanities and Social Sciences (GIR HASS)" %}}![](https://ocw.mit.edu/images/educator/icon-question-hass.png)
+- {{% resource_link "9636872b-6a9b-4a8d-99ea-6618cb724854" "Communication Intensive in the Humanities (CI-H)" %}}![](https://ocw.mit.edu/images/educator/icon-question-cih.png)
 
 ### Offered
 

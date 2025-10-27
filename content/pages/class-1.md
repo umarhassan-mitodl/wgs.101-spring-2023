@@ -22,7 +22,7 @@ MIT students were asked to fill out a sheet about themselves and their interests
 
 {{% resource_link "cbcbade1-bd02-416c-8da5-c2a711c93ec8" "Exercise 1: Women's and Gender Studies Issues (PDF)" %}} ({{% resource_link "e20f7f54-cbf4-4fd7-bddc-e01a9ade616f" "DOC" %}})
 
-{{% resource_link "03586aca-0571-4f6c-ad74-1c2cec6be461" "Exercise 2: The Debate Over Gender Representation of the MIT Seal (PDF)" %}} ({{% resource_link "e81290db-0367-4b36-aa06-551a594596d3" "DOC" %}})  [View an image of the MIT Seal](https://libraries.mit.edu/mithistory/institute/seal-of-the-massachusetts-institute-of-technology/)
+{{% resource_link "03586aca-0571-4f6c-ad74-1c2cec6be461" "Exercise 2: The Debate Over Gender Representation of the MIT Seal (PDF)" %}} ({{% resource_link "e81290db-0367-4b36-aa06-551a594596d3" "DOC" %}})  {{% resource_link "4f7c229c-a707-42e2-b655-9dba6d6672d9" "View an image of the MIT Seal" %}}
 
 ## Homework #1
 

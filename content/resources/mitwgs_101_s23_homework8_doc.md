@@ -5,8 +5,6 @@ draft: false
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_homework8.doc
 file_size: 30208
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

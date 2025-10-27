@@ -9,13 +9,13 @@ uid: ed33c35a-c35a-40ce-abb8-eec74bff4324
 ---
 ## View
 
-[*No Más Bebés*](https://www.pbs.org/independentlens/documentaries/no-mas-bebes/)*.* Renee Tajima-Peña. 2015.
+{{% resource_link "cabd1214-96c9-4baf-8a6d-56a7b9bc6555" "*No Más Bebés*" %}}*.* Renee Tajima-Peña. 2015.
 
 ## Read
 
-- Judith Jarvis Thomson. “[A Defense of Abortion](https://spot.colorado.edu/~heathwoo/Phil160,Fall02/thomson.htm).” *Philosophy & Public Affairs* 1, no. 1 (1971). 
-- Andrea Smith. “[Beyond Pro-Choice Versus Pro-Life: Women of Color and Reproductive Justice](https://www.jstor.org/stable/4317105).” *NWSA Journal* 17, no. 1 (Spring 2005). 
-- *New York Times,* Opinion. “[A Woman’s Rights](https://www.nytimes.com/interactive/2018/12/28/opinion/pregnancy-women-pro-life-abortion.html).”
+- Judith Jarvis Thomson. “{{% resource_link "e9bd967e-97ae-4bea-9f8f-97cd9c75d67c" "A Defense of Abortion" %}}.” *Philosophy & Public Affairs* 1, no. 1 (1971). 
+- Andrea Smith. “{{% resource_link "f6f534ef-067f-443e-ba01-cc383ecf60f6" "Beyond Pro-Choice Versus Pro-Life: Women of Color and Reproductive Justice" %}}.” *NWSA Journal* 17, no. 1 (Spring 2005). 
+- *New York Times,* Opinion. “{{% resource_link "ba2ff9ac-2486-4d54-abab-85e83e96216c" "A Woman’s Rights" %}}.”
 
 ## Homework #15
 

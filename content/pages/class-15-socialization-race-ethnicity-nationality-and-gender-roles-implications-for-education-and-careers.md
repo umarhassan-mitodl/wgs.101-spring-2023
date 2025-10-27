@@ -10,10 +10,10 @@ uid: 60a728f5-9a2a-4ddf-89f4-bbe5cb6f4a3a
 ## Read
 
 - Paula Gunn Allen, “Where I Come From Is Like This”
-- Maxine Baca Zinn and Bonnie Thornton Dill, “[Theorizing Difference from Multiracial Feminism](https://www.jstor.org/stable/3178416).” *Feminist Studies* 22, no. 2 (1996): 321–331. 
+- Maxine Baca Zinn and Bonnie Thornton Dill, “{{% resource_link "7223e219-3733-458a-9636-306747e037e7" "Theorizing Difference from Multiracial Feminism" %}}.” *Feminist Studies* 22, no. 2 (1996): 321–331. 
 - Alice Walker, “Womanist.”
-- Ngozi Chimamanda Adichie, “[The Danger of A Single Story](https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en).” (TED talk)
-- Elizabeth Weil, “[Teaching Boys and Girls Separately](http://www.nytimes.com/2008/03/02/magazine/02sex3-t.html?_r=1).” *The New York Times Magazine.* March 2, 2008. 
+- Ngozi Chimamanda Adichie, “{{% resource_link "03d2d998-1781-4bd2-95f7-1bd4e0e33d01" "The Danger of A Single Story" %}}.” (TED talk)
+- Elizabeth Weil, “{{% resource_link "c0a8932b-34b8-4443-acc7-c2d422be62ee" "Teaching Boys and Girls Separately" %}}.” *The New York Times Magazine.* March 2, 2008. 
 
 ## Homework #11
 

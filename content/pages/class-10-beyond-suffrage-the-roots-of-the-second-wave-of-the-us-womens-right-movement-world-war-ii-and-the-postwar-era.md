@@ -13,7 +13,7 @@ Jen Greenleaf, MIT Women and Gender Studies Librarian
 
 ## Read
 
-Friedan, Betty. "The Problem That Has No Name." [*The Feminine Mystique (PDF)*](https://nationalhumanitiescenter.org/ows/seminars/tcentury/FeminineMystique.pdf)*.* W.W. Norton & Company. ISBN: 9780393346787.
+Friedan, Betty. "The Problem That Has No Name." {{% resource_link "2412b6c6-89ff-4ed5-8ffd-398e782ba455" "*The Feminine Mystique (PDF)*" %}}*.* W.W. Norton & Company. ISBN: 9780393346787.
 
 ## Homework #8 
 

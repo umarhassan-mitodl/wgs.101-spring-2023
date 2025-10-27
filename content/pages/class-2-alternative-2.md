@@ -9,21 +9,21 @@ Class #2 Outline ({{% resource_link "2e18801c-285c-41b4-8b22-245de092624d" ".doc
 
 ## Readings/Films
 
-“[The Declaration of Sentiments](https://www.nps.gov/wori/learn/historyculture/declaration-of-sentiments.htm).” (1848)
+“{{% resource_link "dd1da046-e3cb-45cf-9dea-4022bcac02eb" "The Declaration of Sentiments" %}}.” (1848)
 
-Film clip: Pollak, Ruth. [*One Woman, One Vote*](https://www.pbs.org/show/one-woman-one-vote/)*.* PBS. 1995.
+Film clip: Pollak, Ruth. {{% resource_link "c9f3ce5f-6804-446c-9d95-ed489223901b" "*One Woman, One Vote*" %}}*.* PBS. 1995.
 
 ### **Read for Historical Background:**
 
-Jeanne Boydston, “[The Cult of True Womanhood](https://www.pbs.org/kenburns/not-for-ourselves-alone/cult-of-true-womanhood)”
+Jeanne Boydston, “{{% resource_link "345a481e-ad39-4f8d-8e04-e63e3393a28d" "The Cult of True Womanhood" %}}”
 
 Angela Davis, “The Anti Slavery Movement and the Birth of Women’s Rights”
 
-Angelina Grimke, “[Human Rights Not Founded on Sex](http://www.iath.virginia.edu/utc/abolitn/abesaegb5t.html)” (1837)
+Angelina Grimke, “{{% resource_link "1fb22a0e-f400-46fe-9b62-43d946f011d7" "Human Rights Not Founded on Sex" %}}” (1837)
 
 ### **Read for Discussion/HW:**
 
-- Thomas Jefferson, “[Declaration of Independence](http://www.ushistory.org/declaration/document/)” (1776)
+- Thomas Jefferson, “{{% resource_link "e140a836-5d01-4915-b547-9d8fcb31b86f" "Declaration of Independence" %}}” (1776)
 
 Elizabeth Cady Stanton, “The Declaration of Sentiments and Resolutions” (1848)
 

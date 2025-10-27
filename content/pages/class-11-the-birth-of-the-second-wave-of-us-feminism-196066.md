@@ -8,9 +8,9 @@ uid: 69b0b001-96b7-4d18-b7a0-a751b8587e55
 ---
 ## Read
 
-\[FIOT\] = Schneir, Miriam. [*Feminism in Our Time: The Essential Writings, World War II to the Present*](https://www.goodreads.com/book/show/125746.Feminism_in_Our_Time). Vintage, 1994. ISBN: 9780679745082.
+\[FIOT\] = Schneir, Miriam. {{% resource_link "1c19e86d-7405-4724-a0ba-9b23961ce45a" "*Feminism in Our Time: The Essential Writings, World War II to the Present*" %}}. Vintage, 1994. ISBN: 9780679745082.
 
-- “[The Civil Rights Act of 1964, Title VII](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964)” (*FIOT,* pp. 71–75).
-- Pauli Murray and Mary O. Eastwood, “[Jane Crow and the Law: Sex Discrimination and Title VII](https://documents.alexanderstreet.com/d/1000687209)” (*FIOT,* pp. 76–88).
+- “{{% resource_link "7c6a82df-6e0a-4f9f-9624-2dc5a4e12cf5" "The Civil Rights Act of 1964, Title VII" %}}” (*FIOT,* pp. 71–75).
+- Pauli Murray and Mary O. Eastwood, “{{% resource_link "bb1ee11f-f3f1-492b-aca4-fc8833b5992a" "Jane Crow and the Law: Sex Discrimination and Title VII" %}}” (*FIOT,* pp. 76–88).
 - “The Report of the President’s Commission on the Status of Women” (*FIOT,* pp. 38–47).
-- The National Organization for Women, “[Statement of Purpose](https://now.org/about/history/statement-of-purpose/)” (1966) (*FIOT*, pp. 95–102) (authored by Betty Friedan).
+- The National Organization for Women, “{{% resource_link "89cdb65d-8f6f-430d-8a83-aa50ba2a0768" "Statement of Purpose" %}}” (1966) (*FIOT*, pp. 95–102) (authored by Betty Friedan).

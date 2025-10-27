@@ -5,8 +5,6 @@ draft: false
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/wgs101-cover-portrait.doc
 file_size: 27648
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

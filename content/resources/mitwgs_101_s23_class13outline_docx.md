@@ -5,8 +5,6 @@ draft: false
 file: /courses/wgs-101-introduction-to-womens-and-gender-studies-spring-2023/mitwgs_101_s23_class13outline.docx
 file_size: 23302
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
